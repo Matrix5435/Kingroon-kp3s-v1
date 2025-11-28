@@ -3,6 +3,7 @@ Successfully obtained the printer.cfg configuration file.
 To run these custom gcode commands you need to pass
 
 ROOT
+
 ; gcode commands in here
 UNROOT
 The root command enabled these commands. And unroot disables them.
