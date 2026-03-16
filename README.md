@@ -17,3 +17,7 @@ M8817 - Copy printer.cfg from USB to /app/resources/configs/printer.cfg.
 M8818 - Copy unmodifiable.cfg from USB.
 M8820 - Resets the printer to factory settings.
 UNROOT - Disable root commands.
+
+
+
+https://gigacode.ru/plugins/gigacode-jetbrains-26.1.715-242.zip
